@@ -1,4 +1,5 @@
-![image](image.png)
+
+![Banner image](https://github.com/Abdullah00110/Abdullah00110/assets/148894144/203cc697-1b72-48ce-b4a4-a8817b5a8db0)
 <h1 align="center">Hi 👋, I'm Abdullah Sunasara</h1>
 <h3 align="center">A passionate Python Fullstack developer from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullah00110&label=Profile%20views&color=0e75b6&style=flat" alt="abdullah00110" /> </p>
